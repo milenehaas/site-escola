@@ -24,15 +24,26 @@ h1{}
         width: 20%;
 }
 .escola{
-    background-image: linear-gradient(rgb(197, 5, 5),black);
-    color:rgb(120, 153, 167);
+    background-image: linear-gradient(rgb(216, 0, 0),black);
+    color:rgb(235, 222, 222);
     display:flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 } 
 .escola-conteudo
-{widht: 50%;
-    }
+{width: 50%  }
+
     .escola-titulo
     {padding: 50px 30px;}
+
+    .aluno-um {
+        width: 10%;
+    }
+    .estudante-icone
+    {width: 24px;}
+
+    .estudante-div{
+        text-align: center;
+    }
+

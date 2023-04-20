@@ -38,7 +38,8 @@ h1{}
     {padding: 50px 30px;}
 
     .aluno-um {
-        width: 10%;
+        width: 30%;
+        height: 120px;
     }
     .estudante-icone
     {width: 24px;}
@@ -56,4 +57,9 @@ h1{}
 .estudante-todos{
     display: grid;
     grid-template-columns: 25% 25% 25% 25% 25%;
+    
+}
+footer{
+    background-color: black;
+    color: black;
 }

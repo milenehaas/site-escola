@@ -2,7 +2,7 @@
 margin: 0;
 padding: o;
 }
-.cabecalho{background-color: rgb(216, 0, 0);
+.cabecalho{background-color: rgb(216,0 , 0);
 display: flex;
 justify-content: space-around;
  padding: 24px 0;
@@ -45,5 +45,15 @@ h1{}
 
     .estudante-div{
         text-align: center;
-    }
 
+    }
+    body{ font-family: Georgia, 'Times New Roman', Times, serif;}
+.aluno-titulo
+{
+    text-align: center;
+    padding: 50px 0;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25% 25%;
+}
